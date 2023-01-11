@@ -1,0 +1,32 @@
+
+p, img, h1, h2, ol, ul, a, .food {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul, ol {
+    display: table;
+    margin: 0 auto;
+}
+
+a {
+    color: yellowgreen;
+
+}
+
+
+h2 {
+    color: purple;
+}
+
